@@ -1,3 +1,9 @@
 CounterFit
 counterfit-connection
 counterfit-shims-grove
+counterfit-shims-rpi-vl53l0x
+counterfit-shims-picamera
+counterfit-shims-seeed-python-si114x
+counterfit-shims-serial
+counterfit-shims-grove
+counterfit-shims-seeed-python-dht
